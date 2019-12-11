@@ -1,1 +1,1 @@
-Code for Multi Armed Bandits
+Code for Multi Armed Bandits, exploit-explore dilemmea
